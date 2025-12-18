@@ -1,5 +1,5 @@
+[!IMPORTANT]
 # zapret-roblox
-
 > **Внимание:** Это форк/адаптация проекта [`zapret-discord-youtube`](https://github.com/Flowseal/zapret-discord-youtube) для обхода ограничений на доступ к **Roblox** на территории Российской Федерации.  
 > Лицензия: MIT (наследуется от оригинального проекта).
 
